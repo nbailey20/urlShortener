@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+}
+
+.instruct {
+    text-align: center;
+    color: green;
+}
+
+.example {
+    text-align: center;
+    font-family: Sans-serif;
+}
